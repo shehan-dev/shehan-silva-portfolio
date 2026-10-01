@@ -11,4 +11,3 @@
 
 - Keep the portfolio as one anchor-navigated page because the supplied specification explicitly requires a single-page experience.
 - Use CSS-native motion and intersection observers so the portfolio remains lightweight and honors reduced-motion preferences.
-- Keep uploaded achievement photos as Lovable Assets pointers so the single-page portfolio displays them without committing binary media.
